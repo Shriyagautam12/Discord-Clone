@@ -1,11 +1,11 @@
-# RAZORPAY CLONE
+# DISCORD CLONE
 
 ## Introduction
 
 This README file provides an overview and instructions for setting up and using a Tailwind project. Tailwind is a utility-first CSS framework that allows you to rapidly build user interfaces by composing small utility classes.
 
 
-It is a clone of the famous Razorpay clone website.
+It is a clone of the famous Discord clone website.
 Technology used are:- HTML, TAILWIND , JAVASCRIPT
 
 ## Project Structure
